@@ -2,6 +2,7 @@ controlgastos
 AO CLONAR O PROJETO, LEMBRE DE REALZIAR A TROCA DOS DADOS DE ACESSO AO SEU BANCO DE DADOS MYSQL NO ARQUIVO appsettings.json. O app flutter correspondente ao projeto esta em: https://github.com/arturw9/controlgastos_flutter_front
 
 Video apresentação app: https://drive.google.com/file/d/1BFlmcXJ2F0WIayS6w8srkZkthpXvkD1K/view?usp=drive_link
+
 Logo abaixo os requisitos que foram cumpridos.
 
 Descrição da Atividade: Aplicativo de Controle de Gastos Pessoais
